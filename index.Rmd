@@ -46,17 +46,13 @@ https://doi.org/10.5281/zenodo.12763141
 
 <br />
 
-### Other Sites
+### Related Works
 
-[Pilot 2 Basic Needs and Student Success Survey](https://chicocalfresh.github.io/bns-pilot2-website/index.html)
-
-[Pilot 2 Basic Needs and Student Success Survey, CSU Chico Results](https://chicocalfresh.github.io/bns-pilot2-chico/)
-
-[Pilot 2 Basic Needs and Student Success Survey, CSU Northridge Results](https://chicocalfresh.github.io/bns-pilot2-csun/)
-
-[Pilot 2 Basic Needs and Student Success Survey, Fresno State Results](https://chicocalfresh.github.io/bns-pilot2-fresno/)
-
-[Statewide Basic Needs and Student Success Survey](https://chicocalfresh.github.io/BNS3_Statewide_Summary/)
+* [Pilot 2 Basic Needs and Student Success Survey](https://chicocalfresh.github.io/bns-pilot2-website/index.html)
+* [Pilot 2 Basic Needs and Student Success Survey, CSU Chico Results](https://chicocalfresh.github.io/bns-pilot2-chico/)
+* [Pilot 2 Basic Needs and Student Success Survey, CSU Northridge Results](https://chicocalfresh.github.io/bns-pilot2-csun/)
+* [Pilot 2 Basic Needs and Student Success Survey, Fresno State Results](https://chicocalfresh.github.io/bns-pilot2-fresno/)
+* [Statewide Basic Needs and Student Success Survey](https://chicocalfresh.github.io/BNS3_Statewide_Summary/)
 
 ---
 
